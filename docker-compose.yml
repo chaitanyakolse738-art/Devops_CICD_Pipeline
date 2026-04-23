@@ -1,7 +1,6 @@
 services:
   app:
     image: chaitanya057/notes-app:latest
-    container_name: jenkins_test
     ports:
       - "4000:5000"
     env_file:
@@ -14,7 +13,6 @@ services:
 
   mongo:
     image: mongo:7
-    container_name: mongo_container
     ports:
       - "27018:27017"
     environment:
