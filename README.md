@@ -1,4 +1,4 @@
-## Applicaton screen shot live running
+## Applicaton screenshot live running
 
 <img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/ef2d2845-9749-487f-a8bc-a27ae01abaa5" />
 
