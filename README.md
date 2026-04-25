@@ -1,3 +1,10 @@
+## Applicaton screen shot live running
+
+<img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/ef2d2845-9749-487f-a8bc-a27ae01abaa5" />
+
+
+
+
 # 🚀 DevOps CI/CD Pipeline Project (Node.js + Docker + Jenkins + AWS EC2)
 
 ## 📌 Project Overview
