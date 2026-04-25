@@ -8,6 +8,6 @@ RUN npm install --silent
 
 COPY app ./
 
-EXPOSE 5000
+EXPOSE 3000
 
 CMD ["node", "server.js"]
